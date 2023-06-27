@@ -1,0 +1,98 @@
+move forward. Speed=40
+Hump ahead. Decelerate
+Wrong way ahead. Move in reverse direction
+left turn
+left turn
+Right curve. RightSpeed=30 Leftspeed=20
+stop motors
+move forward. Speed=40
+Stop motors
+keep moving
+Wrong way ahead. Move in reverse direction
+Stop motors
+Speed=30
+U turn
+stop motors
+move forward. Speed=40
+Hospital zone. Speed=25
+Hump ahead. Decelerate
+Hospital zone. Speed=25
+stop motors
+move forward. Speed=40
+Speed=20
+Speed=20
+keep moving
+Hump ahead. Decelerate
+stop motors
+move forward. Speed=40
+Left curve. LeftSpeed=30 Rightspeed=20
+Wrong way ahead. Move in reverse direction
+Speed=30
+Speed=30
+School ahead. Speed=20
+Stop motors
+Stop motors
+Hump ahead. Decelerate
+stop motors
+move forward. Speed=40
+left turn
+Left curve. LeftSpeed=30 Rightspeed=20
+Wrong way ahead. Move in reverse direction
+move forward. Speed=40
+Wrong way ahead. Move in reverse direction
+Stop motors
+Speed=20
+Right curve. RightSpeed=30 Leftspeed=20
+Left curve. LeftSpeed=30 Rightspeed=20
+right turn
+stop motors
+move forward. Speed=40
+Hump ahead. Decelerate
+keep moving
+School ahead. Speed=20
+left turn
+keep moving
+Left curve. LeftSpeed=30 Rightspeed=20
+Hump ahead. Decelerate
+keep moving
+Speed=20
+School ahead. Speed=20
+Wrong way ahead. Move in reverse direction
+School ahead. Speed=20
+move forward. Speed=40
+move forward. Speed=40
+School ahead. Speed=20
+right turn
+Speed=20
+School ahead. Speed=20
+stop motors
+move forward. Speed=40
+right turn
+left turn
+Right curve. RightSpeed=30 Leftspeed=20
+U turn
+keep moving
+move forward. Speed=40
+Wrong way ahead. Move in reverse direction
+right turn
+Speed=30
+U turn
+stop motors
+move forward. Speed=40
+Wrong way ahead. Move in reverse direction
+Wrong way ahead. Move in reverse direction
+move forward. Speed=40
+keep moving
+Hump ahead. Decelerate
+Speed=30
+Hospital zone. Speed=25
+Left curve. LeftSpeed=30 Rightspeed=20
+U turn
+School ahead. Speed=20
+move forward. Speed=40
+keep moving
+Left curve. LeftSpeed=30 Rightspeed=20
+Left curve. LeftSpeed=30 Rightspeed=20
+U turn
+Speed=20
+Speed=30
