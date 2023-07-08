@@ -29,6 +29,5 @@ TASK 2.3a :
 1. Using the 15 different images at random, a video  of about 1.5 minutes is generated and simultaneously based on different road signals, different outputs are stored in a text file, ‘directionOutputsBonus.txt’ .
 2. For the bonus part, we have stored the image number as the output in the text file.
 
+![map1 2](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/a8afcca8-d6d9-42f5-9aaf-ac679c67ad81)
 
-
-![map1 2](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/9b114ed7-f4e0-480a-88be-4f31885e1b92)
