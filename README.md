@@ -30,4 +30,10 @@ TASK 2.3a :
 2. For the bonus part, we have stored the image number as the output in the text file.
 
 ![map1 2](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/a8afcca8-d6d9-42f5-9aaf-ac679c67ad81)
+![Screenshot (113)](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/368682d2-a7cb-4073-8779-ff8c32a06322)
+![Screenshot (115)](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/034c5d56-2ab6-4bfa-afd6-d9345737cf30)
+![Screenshot (114)](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/7d278a6d-2457-4c1d-a9bd-8c5ed60cf9dd)
+
+
+
 
