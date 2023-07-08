@@ -9,7 +9,7 @@ TASK 1.1 :
 4. We have also used another path finding algorithm - RRT algorithm - Rapidly Exploring Random Tree. 
 
 TASK 1.2 : 
-1. The image being used in this program is named “map1.2.png”. The image needs to be downloaded before running the program.
+1. The image being used in this program is named “map1.2.png”. The image needs to be downloaded before running the program. All the 5 algorithms are successfully implemented on this image.
 
 TASK 1.3 :
 1. The image being used in this program is named “homemap.jpeg”. The image needs to be downloaded before running the program. 
@@ -30,3 +30,5 @@ TASK 2.3a :
 2. For the bonus part, we have stored the image number as the output in the text file.
 
 
+
+![map1 2](https://github.com/debaditya4421/OpenCV-Project/assets/103170797/9b114ed7-f4e0-480a-88be-4f31885e1b92)
